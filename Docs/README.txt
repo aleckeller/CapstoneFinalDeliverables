@@ -29,7 +29,12 @@ CONFIGURATION
 GitHub Repo
 ——————————————-
 
--
+-https://github.com/aleckeller/CapstoneFinalDeliverables.git
+
+Task Log
+——————————————-
+
+-The main board pdf contains all of the tasks. All of the other pdf’s are details of each task. Trello was used for task logging.
 
 TROUBLESHOOTING
 ——————————————-
