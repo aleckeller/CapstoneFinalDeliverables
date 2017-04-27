@@ -1,0 +1,68 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="${relativePackage}.${activityClass}">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/my_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="#fb0202"
+        android:theme="@style/ThemeOverlay.AppCompat.ActionBar"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+        android:elevation="3dp" />
+
+    <WebView  xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/webview"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        />
+    <EditText
+        android:id="@+id/orderTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:background="#dcd6d6"
+        android:hint="Enter Order Here"
+        android:minHeight="48dp"
+        android:layout_toLeftOf="@+id/orderAmount"
+        android:layout_toStartOf="@+id/orderAmount"
+        android:inputType="textCapSentences">
+
+        <requestFocus />
+
+    </EditText>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Order"
+        android:id="@+id/orderButton"
+        android:layout_alignBottom="@+id/orderTextView"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:background="#dcd6d6"
+        android:minWidth="100dp" />
+
+    <EditText
+        android:id="@+id/orderAmount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#dcd6d6"
+        android:hint="$"
+        android:minHeight="50dp"
+        android:layout_alignTop="@+id/orderButton"
+        android:layout_toLeftOf="@+id/orderButton"
+        android:layout_toStartOf="@+id/orderButton"
+        android:minWidth="100dp"
+        android:inputType="numberDecimal">
+
+        <requestFocus />
+
+    </EditText>
+
+</RelativeLayout>

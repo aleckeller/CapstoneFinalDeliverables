@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.aleckeller.deliverit">
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <application
+        android:name=".AppController"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_deliver"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity" android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
+        <activity
+            android:name=".SplashActivity"
+            android:theme="@style/SplashTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <service
+            android:name=".FirebaseNotificationSystem">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT"/>
+            </intent-filter>
+        </service>
+
+        <activity android:name=".NotificationFromRegularActivity" android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity android:name=".NotificationFromDriverActivity" android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity android:name=".SpecialRequestActivity" android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity android:name=".CheckoutActivity" android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity android:name=".CreateAccountActivity" android:theme="@style/AppTheme" />
+        <activity android:name=".DriverActivity" android:theme="@style/AppTheme" />
+        <activity android:name=".AutoCompleteActivity" android:theme="@style/AppTheme" />
+        <activity android:name=".LocationActivity" android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity android:name=".LoginActivity" android:theme="@style/AppTheme" />
+        <service android:name=".FetchAddressIntentService" android:exported="false" />
+        <meta-data android:name="com.facebook.sdk.ApplicationId" android:value="@string/facebook_app_id"/>
+        <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version"/>
+        <meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyA8aV7sq5VcYhENZZd0-kJxnEMpr1ItlF0"/>
+
+    </application>
+
+</manifest>

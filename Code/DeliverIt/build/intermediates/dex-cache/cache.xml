@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="654b294d429b56fd18392f2b68ad79954f431f8e">
+        <dex dex="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-places-10.2.0_39e57d558e222e17d592bc39f3f0c363f7ba5374.jar" />
+    </item>
+    <item
+        jar="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.2.0_872d82b1a6faa55d5de25e5dbb2f46150fd2fdf1.jar" />
+    </item>
+    <item
+        jar="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_9f814d0f7b2c7371838c6b0bafc566a62a080dbb.jar" />
+    </item>
+    <item
+        jar="/Users/aleckeller/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.5.2/91731b8f5868a3e8a8a773f29b8d06b5c358f5bb/firebase-client-jvm-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="91731b8f5868a3e8a8a773f29b8d06b5c358f5bb">
+        <dex dex="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/pre-dexed/debug/firebase-client-jvm-2.5.2_cd9487c336b04420d574c179b70771c70af23ffc.jar" />
+    </item>
+    <item
+        jar="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_9fa4263634fc2e2ba166d9b3ad3f9432d35fab06.jar" />
+    </item>
+    <item
+        jar="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-10.2.0_e3af179d32dcbe7f5929f4bc6ea9ad0f01979046.jar" />
+    </item>
+    <item
+        jar="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="75575883f0348fc5d2be85f23bd10b050095cf17">
+        <dex dex="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-10.2.0_f72202e64f731082fddca16e0d353531ca335e18.jar" />
+    </item>
+    <item
+        jar="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-10.2.0_c1087a9f59462bf8bc7bf143a07e7d82e23c0385.jar" />
+    </item>
+    <item
+        jar="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6da05b7498da036b5b37c3beb861cd2060929dcd">
+        <dex dex="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-10.2.0_402f4490dc214209dd900c348441404b82b5e4ca.jar" />
+    </item>
+    <item
+        jar="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/exploded-aar/com.android.support/customtabs/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/pre-dexed/debug/com.android.support-customtabs-25.0.0_47cd48a82b5e98bf85d3ab5fe6d076da099c00b3.jar" />
+    </item>
+    <item
+        jar="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_84f2e9fa741aa760050552b24575654ceeaba29a.jar" />
+    </item>
+    <item
+        jar="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_3e64340cd72705e94ffeaeef5fe053857d744b9e.jar" />
+    </item>
+    <item
+        jar="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_c9218191989b810ffe05b98fe63483fff0797242.jar" />
+    </item>
+    <item
+        jar="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-10.2.0_b618c24035c5833b217157cfbd4a13993b5ed398.jar" />
+    </item>
+    <item
+        jar="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_e9d3198cd4166008fe3a69eb6417b68ce23e84b8.jar" />
+    </item>
+    <item
+        jar="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/exploded-aar/com.mcxiaoke.volley/library-aar/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/pre-dexed/debug/com.mcxiaoke.volley-library-aar-1.0.0_ff020d3581df4d3455e2c36b5af8bafa0b1126c6.jar" />
+    </item>
+    <item
+        jar="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_1b175dc86c8238a10cf0cdc4716be77ec62a1d5b.jar" />
+    </item>
+    <item
+        jar="/Users/aleckeller/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_c857cbcae5a75a167b73198cdabbf93bb1ba1dd9.jar" />
+    </item>
+    <item
+        jar="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_a751ff9fd333dd95443dc692c0d1cc6083c62a84.jar" />
+    </item>
+    <item
+        jar="/Users/aleckeller/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_769a7f6de20086c4bb520c93ffa4fc8b84a3c33d.jar" />
+    </item>
+    <item
+        jar="/Users/aleckeller/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.5.2/f19f10d6276aa0b380e2d05d2ab3272d693a5433/firebase-client-android-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f19f10d6276aa0b380e2d05d2ab3272d693a5433">
+        <dex dex="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/pre-dexed/debug/firebase-client-android-2.5.2_5b90f55b8f1fbce7e0fc780b17b2978138390942.jar" />
+    </item>
+    <item
+        jar="/Users/aleckeller/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.2_3b8ae5955a0663e1c4660a17605d015bb02df364.jar" />
+    </item>
+    <item
+        jar="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.22.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0d94c39080a309d1887f50ef68cc96dfe4bc9d01">
+        <dex dex="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-android-sdk-4.22.0_495d9a9416030bb45b134447ae1a6126d55c9fcf.jar" />
+    </item>
+    <item
+        jar="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.3.4/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="cf251baf39f5c5138224b67b4106eb6331abbd13">
+        <dex dex="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/pre-dexed/debug/com.google.maps.android-android-maps-utils-0.3.4_5fe2d17ab7a4a5ad6d06d1747d581fa3745c1c51.jar" />
+    </item>
+    <item
+        jar="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.2.0_92e107de06d3c839f7370e9c62ab6785020f11ec.jar" />
+    </item>
+    <item
+        jar="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.0.0_554a0f42ba3f7ba72c6ff6473264ba62f260f11c.jar" />
+    </item>
+    <item
+        jar="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0e301f24b283f14b564f660c9abe863af6be5896">
+        <dex dex="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-10.2.0_a7db621f9c6119cc2cad9b6060987af2ea563fa6.jar" />
+    </item>
+    <item
+        jar="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-10.2.0_1f0944222bc4b1c1c8ec62cc93229864fb166a32.jar" />
+    </item>
+    <item
+        jar="/Users/aleckeller/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0_de636184456ecdfda242c6da33b05fd4585a9069.jar" />
+    </item>
+    <item
+        jar="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.2.0_f205ac801792651fc1b5e97a3789221818a30d8c.jar" />
+    </item>
+    <item
+        jar="/Users/aleckeller/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.12/6ec0bbd3e161a73ed672284b587fd32309a86d7a/tubesock-0.0.12.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/pre-dexed/debug/tubesock-0.0.12_c1083525133519e8d5b99405bd777994f618771a.jar" />
+    </item>
+    <item
+        jar="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_663b5486f8dea31fd68224ac7069809ceaacca53.jar" />
+    </item>
+    <item
+        jar="/Users/aleckeller/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.2.2_86a5be1f48cc6e78e4556c272022121c63e045d6.jar" />
+    </item>
+    <item
+        jar="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_406d35630b4910af81a0d1140de02007b0d468eb.jar" />
+    </item>
+    <item
+        jar="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d08bb32b88df3dbcbe1d498c3c57f020b8c521ec">
+        <dex dex="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-10.2.0_fd0c124fb3de338b0511b7e28d6d8fcdb3981434.jar" />
+    </item>
+    <item
+        jar="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_d5b03e3daa66229e1445beaf5c19b2efeb28ad7d.jar" />
+    </item>
+    <item
+        jar="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="94fca868854457ede6df15c902938468c71d579e">
+        <dex dex="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-10.2.0_8f10a80efbad44b70ebda46a5ada154d30fbe45b.jar" />
+    </item>
+    <item
+        jar="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_711b442643a7dead8df5dc6a18f77068fc215d3e.jar" />
+    </item>
+    <item
+        jar="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_0b9a87cd6a183b4b99d6ba8222cc578ef581abb5.jar" />
+    </item>
+    <item
+        jar="/Users/aleckeller/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/pre-dexed/debug/jackson-databind-2.2.2_b2681f6ca36c4fa4a69d9bbf6f10046d78a56d59.jar" />
+    </item>
+    <item
+        jar="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/aleckeller/Documents/DeliverIt/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_0605a10978944db9641c6ce2f77e9a315339c437.jar" />
+    </item>
+
+</items>
